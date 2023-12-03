@@ -5,6 +5,6 @@ Notre code offre une expérience de jeu pour Sokoban, où le joueur guide le per
 
 # Instruction pour commencer le jeu 
 Assurer vous d'avoir mis tous les fchiers dans un même repertoire et ensuite , 
-- Pour compiler : make 
--Pour exécuter : ./main 
--Pour effacer les exécutables et les fichiers.o make clean
+- Pour compiler : make  
+- Pour exécuter : ./main 
+- Pour effacer les exécutables et les fichiers.o make clean
